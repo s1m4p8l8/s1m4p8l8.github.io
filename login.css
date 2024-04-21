@@ -1,0 +1,36 @@
+.login-subm {
+    border-radius: 0px 200px 200px;
+    background: #000;
+    color: #FFF;
+    width: 150px;
+    margin-top: 10px;
+    width: 270px;
+    height: 30px;
+}
+
+.login-login, .login-password {
+    border-radius: 54px 0px 54px 54px;
+    margin-top: 10px;
+    height: 30px;
+    width: 270px;
+}
+
+.login-input {
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.back {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}

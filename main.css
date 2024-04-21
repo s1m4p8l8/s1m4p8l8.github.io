@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-image: url(images/polygons-geometric-blur-background-connected-dots-3840x2160-1740.jpg);
+}
+
+.name {
+    color: rgb(255, 0, 0);
+    margin-left: 30px;
+}
+
+.menubutt {
+    display: flex;
+
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.signupbu {
+    margin-right: 50px;
+    border: 3px blue solid;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+
+.loginbu {
+    margin-right: 50px;
+    border: 3px yellow solid;
+    background-color: yellow;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}

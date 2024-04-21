@@ -1,0 +1,50 @@
+.header_dota {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:#321212;
+}
+
+body {
+    margin: 0;
+    background-image: url(images/dotaback.jpg);
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.steam_button {
+    color:blue;
+    margin-left: 0;
+    border: 3px blue;
+    border-radius: 5px;   
+}
+
+p {
+    color: rgb(216, 205, 205);
+    font-size: 30px;
+}
+
+.loginbu {
+    margin-right: 50px;
+    border: 3px rgb(207, 207, 2) solid;
+    background-color: rgb(207, 207, 2);
+    border-radius: 5px;
+}
+
+.signupbu {
+    margin-right: 50px;
+    border: 3px blue solid;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+.body-dota {
+    padding: 5%;
+}
